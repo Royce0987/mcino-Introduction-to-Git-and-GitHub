@@ -1,3 +1,8 @@
+# Simple Interest Calculator
+This project contains a simple interest calculator script.
+
+
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
